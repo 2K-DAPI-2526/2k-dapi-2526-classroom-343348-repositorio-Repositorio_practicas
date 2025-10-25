@@ -4,10 +4,4 @@
 # en la variable sin tener en cuenta mayúsculas y minúsculas.
 
 
-Contraseña = "Contraseña"
-Contraseña_usuario = input("Introduce la contraseña: ")
-if Contraseña_usuario.lower() == Contraseña.lower():
-    print("Contraseña correcta")
-else:
-    print("Contraseña incorrecta")
     

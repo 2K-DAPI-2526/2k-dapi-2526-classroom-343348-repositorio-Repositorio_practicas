@@ -4,12 +4,3 @@
 # Si el cliente es menor de 4 años puede entrar gratis, 
 # si tiene entre 4 y 18 años debe pagar 5€ y si es mayor de 18 años, 10€.
 
-edad = int(input("Introduce tu edad: "))
-if edad < 4:
-    print("La entrada es gratis")
-elif 4 <= edad <= 18:
-    print("El precio de la entrada es 5€")
-else:
-    print("El precio de la entrada es 10€") 
-# --- IGNORE ---
-

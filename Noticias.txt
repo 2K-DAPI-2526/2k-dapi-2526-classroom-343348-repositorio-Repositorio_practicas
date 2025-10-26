@@ -1,2 +1,3 @@
 25/10/2025: Tenï¿½is disponibles los ejercicios entregables de la UT2 y UT1 en el repositorio remoto para que podï¿½is clonarlo y hacerlos en VScode. Tambiï¿½n he aï¿½adido nuevo arhivo de noticias para ir posteï¿½ndo las entregas importantes y recordatorios. 
 25/10/2025: El jueves 6 de noviembre haremos una prueba escrita de conocimiento, entrarï¿½n UT1, UT2 y UT3
+26/10/2025: Hoy es Domingo, día de descanso

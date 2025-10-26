@@ -1,0 +1,3 @@
+26/10/2025: Hoy no hay dudas
+Nuevo proyecto: Como realizar funciones dentro de un programa - dieseño de aplicación que permita abrir nuevo hilo sobre el archivo Dudas.txt
+Realizar función que permita responder sobre ese hilo en el arhivo.

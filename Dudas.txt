@@ -1,0 +1,1 @@
+26/10/2025 20:57:09: Como abro un archivo desde terminal en VScode

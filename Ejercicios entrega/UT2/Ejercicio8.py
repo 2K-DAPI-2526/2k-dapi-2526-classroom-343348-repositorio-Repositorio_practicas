@@ -10,4 +10,18 @@
 #Aceptable          0.4    
 #Meritorio          0.6 o más
 #Escribir un programa que pregunte al usuario su puntuación en la evaluación y muestre por pantalla la cantidad de dinero que recibirá el usuario.
-
+puntuacion = float(input("Introduce tu puntuación en la evaluación (0.0, 0.4, 0.6 o más): "))
+if puntuacion == 0.0:
+    nivel = "Inaceptable"
+    dinero = 0
+elif puntuacion == 0.4:
+    nivel = "Aceptable"
+    dinero = 2400 * puntuacion
+elif puntuacion >= 0.6:
+    nivel = "Meritorio"
+    dinero = 2400 * puntuacion
+else:
+    nivel = "Puntuación inválida"
+    dinero = 0
+print(f"Nivel: {nivel}")
+print(f"Cantidad de dinero que recibirás: {dinero}€")

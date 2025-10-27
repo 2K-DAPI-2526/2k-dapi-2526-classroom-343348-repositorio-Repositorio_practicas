@@ -3,4 +3,11 @@
 # los hombres con un nombre posterior a la N y el grupo B por el resto. 
 # Escribir un programa que pregunte al usuario su nombre y sexo, 
 # y muestre por pantalla el grupo que le corresponde.
+nombre = input("Introduce tu nombre: ")
+sexo = input("Introduce tu sexo (M/F): ").upper()
+if (sexo == 'F' and nombre[0].upper() < 'M') or (sexo == 'M' and nombre[0].upper() > 'N'):
+    print("Perteneces al grupo A.")
+else:
+    print("Perteneces al grupo B.")
 
+    

@@ -17,3 +17,5 @@ if __name__ == "__main__":
         nombre_archivo = sys.argv[1]
         nueva_linea = sys.argv[2]
         anadir_linea_a_archivo_con_fecha(nombre_archivo, nueva_linea)   
+
+#Programa que pide nombre de archivo de texto y añade una linea debajo de la última pidiendolo desde terminal
